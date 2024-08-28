@@ -2,7 +2,7 @@
 Simple puzzle game, reach the end to complete a level. This can be done by using gates in your toolbar ("bag") to manipulating the quantum state of pillars.
 The player has to be next to an object to interact with it!
 
-## Unitary Libary
+# Unitary Libary
 The game was made using the Unitary library, which handles most of the quantum logic. More information can be found at:
 https://github.com/quantumlib/unitary
 
@@ -22,7 +22,6 @@ After doing the above the game can be played by doing:
 # Controls
 Below are the controls for the game.
 
-## Game
 WASD - movement
 R - Restart level
 
